@@ -1,4 +1,4 @@
-# 🏠Paylastikca-Güzel-Project
+# 🏠Paylastikca-Guzel-Project
 
 Bu repoda Html, Css ve Bootstrap kullanılarak bir demo websitesi tasarlanmıştır.
 
