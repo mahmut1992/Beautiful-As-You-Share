@@ -1,16 +1,16 @@
-# 🏠Paylastikca-Guzel-Project
+# 🏠Beautiful As You Share Website
 
-Bu repoda Html, Css ve Bootstrap kullanılarak bir demo websitesi tasarlanmıştır.
+In this repo, a demo website was designed using Html, Css and Bootstrap.
 
-# 🚀Özellikler
+# 🚀Features
 
--Responsive Tasarım
+-Responsive Design
 
--Kullanıcı Dostu Arayüz
+-User-Friendly Interface
 
--Dinamik Navbar
+-Dynamic Navbar
 
-# 🛠️Kullanılan Teknolojiler
+# 🛠️Technologies Used
 
 -Html
 
@@ -18,11 +18,11 @@ Bu repoda Html, Css ve Bootstrap kullanılarak bir demo websitesi tasarlanmışt
 
 -Bootstrap
 
-# Ekran Görüntüsü
+# Screenshot
 
 ![PaylasincaGüzel](https://github.com/user-attachments/assets/ae3777b3-70f9-4406-ad96-ccc422ae34e4)
 
 
-# 📨İletişim
+# 📨Communication
 
-Soru, görüş ve önerileriniz için iletişime geçiniz:fratsbht@icloud.com
+Please contact us for your questions, comments and suggestions.:fratsbht@icloud.com
